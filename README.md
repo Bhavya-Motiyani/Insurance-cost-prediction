@@ -151,9 +151,10 @@ This project helped me practice:
 B.Tech in Computer Science and Engineering (Data Science Specialization)  
 Gujarat Technological University — VGEC  
 📧 *bhavyamotiyani68@gmail.com*
-🔗 [LinkedIn Profile](www.linkedin.com/in/bhavya-motiyani-059544306)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/bhavya-motiyani-059544306)
 
 ---
 
 *If you found this project interesting, give it a star on GitHub!*
+
 *All suggestions for improvements are welcome :)*
