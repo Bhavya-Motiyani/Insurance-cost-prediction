@@ -133,3 +133,27 @@ This project helped me practice:
 ─ Insurance RFR Model.ipynb
 ─ DS Project ppt.pptx # Presentation slides
 ─ README.md
+
+
+---
+
+## 📜 References
+
+- [Kaggle: Medical Cost Personal Dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance)  
+- [Scikit-learn Documentation](https://scikit-learn.org/stable/)  
+- [Statsmodels OLS Reference](https://www.statsmodels.org/stable/regression.html)
+
+---
+
+## 👩‍💻 Author
+
+**Bhavya Motiyani**  
+B.Tech in Computer Science and Engineering (Data Science Specialization)  
+Gujarat Technological University — VGEC  
+📧 *bhavyamotiyani68@gmail.com*
+🔗 [LinkedIn Profile](www.linkedin.com/in/bhavya-motiyani-059544306)
+
+---
+
+*If you found this project interesting, give it a star on GitHub!*
+*All suggestions for improvements are welcome :)*
