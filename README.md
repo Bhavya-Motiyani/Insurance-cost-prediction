@@ -128,8 +128,8 @@ This project helped me practice:
 ---
 
 ## 📁 Repository Structure
-─ Insurance EDA.ipynb 
+─ Insurance.csv
+─ Insurance EDA.ipynb
 ─ Insurance RFR Model.ipynb
-─ insurance.csv
 ─ DS Project ppt.pptx # Presentation slides
 ─ README.md
